@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+    font-family: 'Arial', sans-serif;
+    font-size: 17px;
+    color: #574093;
+}
+
+.select {
+    color: #2e651c;
+    padding: 6px;
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    border-radius: 4px;
+    background-color: #f0faea;
+
+}
+
+.numbers {
+    padding: 5px 10px;
+    margin-top: 30px;
+    color: #174408;
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    border-radius: 4px;
+}

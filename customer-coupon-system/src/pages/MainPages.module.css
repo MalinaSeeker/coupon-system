@@ -1,0 +1,50 @@
+.h1 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    color: #7835ff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+.h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    color: #7a5ace;
+    margin-bottom: 20px;
+}
+.button{
+    font-size: 15px;
+    padding: 5px 5px;
+    background-color: rgb(136, 176, 122);
+    color: #f2ffee;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.purchaseButton{
+    margin-bottom: 20px;
+    margin-left: 12px;
+    padding: 5px 20px;
+    background-color: #b74fa9;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.detailsLink {
+    margin-bottom: 20px;
+    padding: 3px 10px;
+    background-color: #e3bf53;
+    color: #624213;
+    border-radius: 3px;
+    font-size: 18px;
+    cursor: pointer;
+
+}
+
+
